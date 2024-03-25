@@ -1,0 +1,45 @@
+C:\Users\raymu\source\repos\Inventario\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\raymu\source\repos\Inventario\Inventario\obj\Debug\Inventario.Login.resources
+C:\Users\raymu\source\repos\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\raymu\source\repos\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\raymu\source\repos\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\raymu\source\repos\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\raymu\source\repos\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\raymu\source\repos\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\raymu\source\repos\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\raymu\source\repos\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\jashi\OneDrive\Documentos\JMVG\Negocios II\PRACTICAS\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\jashi\OneDrive\Documentos\JMVG\Negocios II\PRACTICAS\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\jashi\OneDrive\Documentos\JMVG\Negocios II\PRACTICAS\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\jashi\OneDrive\Documentos\JMVG\Negocios II\PRACTICAS\Inventario\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\jashi\OneDrive\Documentos\JMVG\Negocios II\PRACTICAS\Inventario\Inventario\obj\Debug\Inventario.Main.resources
+C:\Users\jashi\OneDrive\Documentos\JMVG\Negocios II\PRACTICAS\Inventario\Inventario\obj\Debug\Inventario.Login.resources
+C:\Users\jashi\OneDrive\Documentos\JMVG\Negocios II\PRACTICAS\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\jashi\OneDrive\Documentos\JMVG\Negocios II\PRACTICAS\Inventario\Inventario\obj\Debug\Inventario.UserControl1.resources
+C:\Users\jashi\OneDrive\Documentos\JMVG\Negocios II\PRACTICAS\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\jashi\OneDrive\Documentos\JMVG\Negocios II\PRACTICAS\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\jashi\OneDrive\Documentos\JMVG\Negocios II\PRACTICAS\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\jashi\OneDrive\Documentos\JMVG\Negocios II\PRACTICAS\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\raymu\source\repos\Inventario1\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\raymu\source\repos\Inventario1\Inventario\bin\Debug\Inventario.exe
+C:\Users\raymu\source\repos\Inventario1\Inventario\bin\Debug\Inventario.pdb
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.Main.resources
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.Login.resources
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.UserControl1.resources
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.exe
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.pdb
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.User.resources
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.UserModule.resources
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.Customer.resources
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.CustomerModule.resources
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.CategoryForm.resources
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.CategoryModule.resources
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.ProductForm.resources
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.ProductModule.resources
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.OrderForm.resources
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.OrderModuleForm.resources
+C:\Users\raymu\source\repos\Inventario1\Inventario\obj\Debug\Inventario.OrderForm2.resources
